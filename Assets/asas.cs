@@ -13,7 +13,7 @@ public class asas : MonoBehaviour
 
       if(num == 20)
       {
-
+    num = -80 +40 - num;
       }
     }
 
