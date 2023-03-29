@@ -9,7 +9,12 @@ public class asas : MonoBehaviour
     void Start()
     {
       num = num + num; 
-      total = num - total;
+      resultado = num - resultado;
+
+      if(num == 20)
+      {
+
+      }
     }
 
     
