@@ -15,11 +15,12 @@ public class asas : MonoBehaviour
       {
 
       }
+
     }
 
     
     void Update()
     {
-        
+    if(resultado == num)
     }
 }
